@@ -21,7 +21,6 @@ acceptBtn.addEventListener('click', function() {
 
 
 async function loadTeamData() {
-    // Find the empty container in our HTML
     const container = document.getElementById('user-container');
     
     try {
